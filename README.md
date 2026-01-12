@@ -1,3 +1,3 @@
-🌐 Ссылка на проект - https://github.com/mirshod455/posmotri-v-okno-fd/
+🌐 Ссылка на проект - https://github.com/mirshod455/slozhno-sosredotochitsya-fd/
 
-🌐 **Демо:** [https://mirshod455.github.io/posmotri-v-okno-fd/](https://mirshod455.github.io/posmotri-v-okno-fd/)
+🌐 **Демо:** [https://mirshod455.github.io/slozhno-sosredotochitsya-fd/](https://mirshod455.github.io/slozhno-sosredotochitsya-fd/)
