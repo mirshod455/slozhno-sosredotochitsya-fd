@@ -7,13 +7,30 @@
 :root.theme-dark {
 	--hero-bg-img: url('../images/cover-image-dark.png');
 	--page-bg-color: #000028;
-	--accent-color: #FF0070;
-	--text-color: #F1B2CE;
-	--slogan-color: #DB00FF;
+	--accent-color: #ff0070;
+	--title-color: #ff0070;
+	--text-color: #f1b2ce;
+	--slogan-color: #db00ff;
 	--bg-text-color: #000028;
-	--border-color: #FF0070;
+	--border-color: #ff0070;
 }
 
 .theme-dark .header__rec {
 	display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--hero-bg-img: url('../images/cover-image-dark.png');
+		--page-bg-color: #000028;
+		--accent-color: #ff0070;
+		--text-color: #f1b2ce;
+		--slogan-color: #db00ff;
+		--bg-text-color: #000028;
+		--border-color: #ff0070;
+	}
+
+	.header__rec {
+		display: block;
+	}
 }

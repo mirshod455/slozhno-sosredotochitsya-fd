@@ -5,11 +5,14 @@
 :root {
 	--hero-bg-img: url('../images/cover-image-dark.png');
 	--page-bg-color: #000028;
-	--border-color: #FF0070;
-	--text-color: #F1B2CE;
-	--accent-color: #FF0070;
-	--slogan-color: #DB00FF;
+	--border-color: #ff0070;
+	--title-color: #353430;
+	--text-color: #353430;
+	--accent-color: #ff0070;
+	--accent-color-hover: #ff007066;
+	--slogan-color: #db00ff;
 	--bg-text-color: #000028;
 	--text-base: 18px;
 	--line-height: 23px;
+	--font: 'IBM Plex mono';
 }
