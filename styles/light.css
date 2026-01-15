@@ -8,10 +8,12 @@
 	--hero-bg-img: url('../images/cover-image-light.png');
 	--page-bg-color: #fff1f7;
 	--accent-color: #ff8dcb;
+	--title-color: #353430;
 	--text-color: #353430;
 	--slogan-color: #ffc2e6;
 	--bg-text-color: #353430;
 	--border-color: #353430;
+	--border-color-hover: #32312d66;
 }
 
 .theme-light .header__rec {
@@ -28,6 +30,7 @@
 		--slogan-color: #ffc2e6;
 		--bg-text-color: #353430;
 		--border-color: #353430;
+		--border-color-hover: #32312d66;
 	}
 
 	.header__rec {

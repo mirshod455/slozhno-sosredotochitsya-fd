@@ -3,15 +3,15 @@
   и их переопределение под различные устройства
 */
 :root {
-	--hero-bg-img: url('../images/cover-image-dark.png');
-	--page-bg-color: #000028;
-	--border-color: #ff0070;
+	--hero-bg-img: url('../images/cover-image-light.png');
+	--page-bg-color: #fff1f7;
+	--border-color: #353430;
+	--border-color-hover: #32312d66;
 	--title-color: #353430;
 	--text-color: #353430;
-	--accent-color: #ff0070;
-	--accent-color-hover: #ff007066;
-	--slogan-color: #db00ff;
-	--bg-text-color: #000028;
+	--accent-color: #ff8dcb;
+	--slogan-color: #ffc2e6;
+	--bg-text-color: #353430;
 	--text-base: 18px;
 	--line-height: 23px;
 	--font: 'IBM Plex mono';
