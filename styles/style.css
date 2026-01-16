@@ -69,7 +69,7 @@
 	border: none;
 	cursor: pointer;
 	font-family: inherit;
-	color: var(--accent-color, #ff0070);
+	color: var(--title-color, #353430);
 	font-size: var(--text-base, 18px);
 	line-height: 18px;
 	text-transform: lowercase;
@@ -120,6 +120,10 @@
 	font-weight: 700;
 	font-size: var(--text-base, 18px);
 	line-height: var(--line-height, 23px);
+}
+
+.weight-regular {
+	font-weight: 400;
 }
 
 .decorated-zone {
